@@ -233,9 +233,6 @@ alias ip='ip -c'
 alias ipcalc='ipcalc -c'
 alias git='git --no-pager'
 
-export VAULT_ADDR="https://vault.devops-cri.lab"
-export VAULT_CACERT='/home/ejr/ESTUDO-DEVOPS/vault_operator/ca.pem'
-export VAULT_TOKEN='hvs.x49h0I2wC8BHuVu4DYm6rDA4'
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
